@@ -19,4 +19,4 @@ Tested with Python 3.9.6
 If you use this code, please cite the paper above.
 
 ## Contact
-For further details, please contact Euan Turner at [e.turner@uq.edu.au].
+For further details, please contact Euan Turner at [e.turner@uq.edu.au](mailto:e.turner@uq.edu.au).
