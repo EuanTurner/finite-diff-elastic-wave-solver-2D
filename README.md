@@ -2,12 +2,12 @@
 
 Implementation of the finite-difference elastic wave solvers from the manuscript:
 
-Turner, E. H. H., Mitchell, T. R., Onederra, I. A., and Leonardi, C. R. "Finite difference modelling of wave propagation in fractured media with imperfect contact interface conditions." Computers and Geotechnics (2026). DOI: [TBC]
+Turner, E. H. H., Mitchell, T. R., Onederra, I. A., and Leonardi, C. R. "Finite difference modelling of wave propagation in fractured media with imperfect contact interface conditions." Computers and Geotechnics (2027). DOI: [TBC]
 
 ## Contents
-- `Sh-1Dprob-2layer-hfrac.py`: Solves the SH elastic wave model for the two-layer horizontal fracture problem in Section 4.1 of the manuscript.
-- `Psv-model-2layer.py`: Solves the two-dimensional P-SV elastic wave model for the problem setup in Section 4.4 of the manuscript.
-- `Psv-model-Schoenberg.py`: Solves the same P-SV problem using the Schoenberg and Coates effective-medium model, for comparison with the two-layer fracture model.
+- `SH-Pseudo2D-2layer.py`: Solves the pseudo-two-dimensional SH elastic wave problem in Section 4.1 of the manuscript.
+- `AW-1D-2layer.py`: Solves the one-dimensional acoustic wave problem in Section 4.1, for comparison with the two-layer SH fracture model.
+- `PSV-2D-2layer.py`: Solves the two-dimensional P-SV elastic wave problem in Section 4.4 of the manuscript.
 - `requirements.txt`: Python dependencies.
 
 ## Setup
